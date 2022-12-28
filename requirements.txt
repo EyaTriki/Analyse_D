@@ -2,5 +2,4 @@ numpy
 pandas
 matplotlib
 tabulate
-sklearn
-manifold
+scikit-learn
