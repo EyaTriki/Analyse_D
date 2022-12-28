@@ -2,4 +2,4 @@ numpy
 pandas
 matplotlib
 tabulate
-sklearn.manifold
+sklearn
