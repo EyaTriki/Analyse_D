@@ -1,13 +1,11 @@
-# Analyse_D
+# Comparing-Cosmetics-by-Ingredients
 
-## Data set du Tayara
+## Project Comparing Cosmetics by Ingredients
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EyaTriki/Analyse_D/main?labpath=index.ipynb)
 
-### :file_folder: Présentation du projet
 
-
-# Description:
+# Project Description:
   Buying new cosmetic products is difficult. It can even be scary for those who have sensitive skin and are prone to skin trouble. The information needed to alleviate this problem is on the back of each product, but it's tought to interpret those ingredient lists unless you have a background in chemistry.
    
 1. Cosmetics, chemicals... it's complicated
