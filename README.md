@@ -6,6 +6,7 @@
 
 ### :file_folder: Présentation du projet
 
+<<<<<<< HEAD
 #Description:
   Buying new cosmetic products is difficult. It can even be scary for those who have sensitive skin and are prone to skin trouble. The information needed to alleviate this problem is on the back of each product, but it's tought to interpret those ingredient lists unless you have a background in chemistry.
    
@@ -25,4 +26,4 @@
 ##1. Cosmetics, chemicals... it's complicated
 Whenever I want to try a new cosmetic item, it's so difficult to choose. It's actually more than difficult. It's sometimes scary because new items that I've never tried end up giving me skin trouble. We know the information we need is on the back of each product, but it's really hard to interpret those ingredient lists unless you're a chemist. You may be able to relate to this situation.
 !(./images/1.png)
-    
+  
