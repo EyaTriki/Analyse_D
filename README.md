@@ -36,7 +36,7 @@ To get to our end goal of comparing ingredients in each product, we first need t
 
 ## 4. Initializing a document-term matrix (DTM)
 The next step is making a document-term matrix (DTM). Here each cosmetic product will correspond to a document, and each chemical composition will correspond to a term. This means we can think of the matrix as a “cosmetic-ingredient” matrix. The size of the matrix should be as the picture shown below.
-<img src="./image/2.png"/>
+<img src="./images/2.png"/>
 To create this matrix, we'll first make an empty matrix filled with zeros. The length of the matrix is the total number of cosmetic products in the data. The width of the matrix is the total number of ingredients. After initializing this empty matrix, we'll fill it in the following tasks.
 
 ## 5. Creating a counter function
